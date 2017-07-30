@@ -12,7 +12,7 @@
 <b>CommandLine:</b>
 
 * Go to packages\NUnit.ConsoleRunner.3.7.0\tools
-* Run 'nunit3-console.exe ..\..\..\src\Web.Example.S3.Tests\bin\Debug\Web.Example.S3.Tests.dll'
+* Run 'nunit3-console.exe ..\\..\\..\src\Web.Example.S3.Tests\bin\Debug\Web.Example.S3.Tests.dll'
 
 <b>Visual Studio:</b>
 
